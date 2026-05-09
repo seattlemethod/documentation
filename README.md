@@ -1,4 +1,4 @@
 # documentation
 Contains documentation related to the Seattle Method.
 
-Focumentation is currently in the Framework and Seattle Method PDF files.
+The Seattle Method provides a framework, a structure (e.g. a model), and a process for working with digital financial reports.  A framework is the principles, philosophy, set of explicit rules which establish boundaries, and supporting systems that enable and justify the creation of structures. A structure defines something and provides the "tracks" or "path" a process must follow. The process is the sequence of actions or methodology necessary to achieve the goal by utilizing the structure within the rules of the framework.  You need all three: a framework to provide the approach and tools, the structures which are created, and the process to create the structures utilizing the framework. A structure is not a process.  A process is not a structure. All of this is governed to minimize epistemic risk.
